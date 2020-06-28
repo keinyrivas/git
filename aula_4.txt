@@ -1,0 +1,479 @@
+    1  is
+    2  IS
+    3  Is
+    4  is a
+    5  mkdir
+    6  ls
+    7  ls
+    8  mkdir documentos /
+    9  ls
+   10  cd documentos/
+   11  mkdir 'keinyrivas'
+   12  mv 'keinyrivas' krivas
+   13  touch versiondeprueba.txt
+   14  echo 'me parece bastante interesante todo esto'
+   15  echo 'me parece bastante interesante todo esto' >comando.txt
+   16  history > 1pruebade git
+   17  ddh-keygen -t -b 4096 -c 'keinyrivas@gmail.com'
+   18  ssh-keygen -t rsa -b 4096 -C 'keinyriuvas@gmail.com'
+   19  ls ~/ . ssh
+   20  https://github.com/toti-edu/Curso_Git.git
+   21  ls
+   22  ls -a
+   23  ls ..
+   24  pwd
+   25  cd desktop
+   26  pwd
+   27  cd ~
+   28  cd desktop
+   29  mkdir comandos
+   30  ls
+   31  cd comandos
+   32  mkadir krivas
+   33  makadir pasta nova
+   34  mkadir krivas
+   35  mkadir pasta nova
+   36  mkadir pasta nova
+   37  cd comandos
+   38  mkadir pasta nova
+   39  ls
+   40  mkdir pasta nova
+   41  ls
+   42  mkdir 'pasta nova'
+   43  ls
+   44  rm -r nova pasta
+   45  ls
+   46  mv 'pasta nova' pasta_nova
+   47  ls
+   48  mkadir new
+   49  ls
+   50  mkdir new
+   51  ls
+   52  mv new pasta_nova
+   53  ls
+   54  ls pasta_nova
+   55  cd comandos
+   56  cd comando
+   57  cd comandos
+   58  touch aquivo.txt
+   59  ls
+   60  cp arquivo.txt pasta_nova
+   61  cp arquivo.txt pasta_nova/
+   62  cp arquivo.txt pasta_nova/
+   63  cp arquivo.txt pasta_nova
+   64  ls
+   65  echo 'mensagem'
+   66  echo 'mensagem' >comandos.txt
+   67  cat comandos.txt
+   68  cat > comandos.txt
+   69  git config --global user.name 'keiny rivas'
+   70  git config --global user.email 'keinyrivas@gmail.com'
+   71  git config user.name
+   72  cd desktop/
+   73  mkdir curso git
+   74  cd curso git
+   75  mkdir curso_git
+   76  cd curso_git
+   77  git config user.name
+   78  git init
+   79  git status
+   80  echo '#aprendendo usar o Git' > readme.md
+   81  git status
+   82  git add readme. md
+   83  git status
+   84  git add readme.md
+   85  git status
+   86  git commit -m 'commit inicial'
+   87  git stataus
+   88  echo '##aula 1' >> readme.md
+   89  git status
+   90  echo 'keiny rivas' > participantes.txt
+   91  sit status
+   92  git status
+   93  git add .
+   94  git status
+   95  git restore --staged participantes.txt
+   96  git status
+   97  git status
+   98  git commit
+   99  git log
+  100  clear
+  101  cd comandos
+  102  cd comandos
+  103  cd usuarios
+  104  clear
+  105  git status
+  106  clear
+  107  ls
+  108  git config user.name
+  109  git conf user.email
+  110  git config user.email
+  111  cd desktop
+  112  cd comandos
+  113  git log --prettyoneline -2
+  114  git log -p
+  115  git log --pretty=oneline
+  116  touch teste
+  117  git add teste
+  118  git status
+  119  ls
+  120  git add teste
+  121  git status
+  122  git estatus
+  123  git add testes
+  124  git add teste
+  125  git commit
+  126  git checkout master
+  127  git checkout master
+  128  cd desktop
+  129  cd deskatop
+  130  ls
+  131  cd desktop/
+  132  cd desktop
+  133  git commit -m 'commit de teste'
+  134  git reset --soft HEAD~~
+  135  LS
+  136  ls -a
+  137  cd desktop
+  138  mkadir comandos
+  139  pwd
+  140  mkadir comandos
+  141  mkdir Comandos
+  142  mkadir nova pasta
+  143  mkadir pasta nova
+  144  mkdir Pasta nova
+  145  mkdir 'Pasta_nova'
+  146  mkdir -p Nem/old
+  147  ls
+  148  rm -r Pasta nova
+  149  rm -r new
+  150  rm -r nem
+  151  ls
+  152  mv 'pasta_nova' pastanova1
+  153  ls
+  154  mkdir new
+  155  mv new pastanova1
+  156  ls
+  157  ls pastanova1
+  158  cd ..
+  159  cd Comandos
+  160  cd comandos
+  161  cd desktop
+  162  cd comandos
+  163  touch arquivo.txt
+  164  cp arquivo.txt. pastanova1
+  165  cp arquivo.txt pastanova1
+  166  ls pastanova1
+  167  ls
+  168  cd desktop
+  169  cd ..
+  170  cd desktop
+  171  cp arquivo.txt pastanova1
+  172  cp arquivo.txt pastanova1
+  173  ls
+  174  cp arquivo.txt pastanova
+  175  cp arquivo.txt pastanova/
+  176  git status
+  177  cd comandos
+  178  cp arquivo.txt pastanova
+  179  ls
+  180  ls pastanova
+  181  cd ..
+  182  ls pastanova
+  183  cd comandos
+  184  cp arquivo.txt pastanova
+  185  ls
+  186  ls pastanova
+  187  cd comandos
+  188  ls
+  189  cp arquivo.txt pastanova
+  190  ls
+  191  echo 'mensagem'
+  192  echo 'mensagem' > comando.txt
+  193  cat comando.txt
+  194   cat 
+  195  ls
+  196  ls
+  197  cd desktop
+  198  cat
+  199  ls
+  200  ls a
+  201  ls -a
+  202  cd desktop
+  203  mkdir comandos
+  204  echo 'mensagem' comando.txt
+  205  ls
+  206  ls comandos
+  207  echo 'mensagem' > comandos.txt
+  208  cat comandos.txt
+  209  cat > comando.txt
+  210  ls
+  211  ls -a
+  212  cd desktop
+  213  cat > comandos.txt
+  214  ls
+  215  ls
+  216  s -a
+  217  ls -a
+  218  cd desktop
+  219  cd comandos
+  220  echo 'mensagem' comandos.txt
+  221  ls
+  222  mv comandos.txt comandos
+  223  cd desktop
+  224  cd desktop
+  225  cd..
+  226  cd ..
+  227  cd desktop
+  228  mv comandos.txt comandos
+  229  ls
+  230  help
+  231  clear
+  232  history
+  233  history > historico.txt
+  234  cat historico.txt
+  235  git init
+  236  gut status
+  237  git status
+  238  echo '#aprendendo usar o git' > readme.md
+  239  git status
+  240  git add readme.txt
+  241  git add readme.md
+  242  git status
+  243  git commit -m 'commit inicial'
+  244  git status
+  245  echo '##aula1' >> readme.md
+  246  git status
+  247  echo ' keiny rivas' > participantes.txt
+  248  git status
+  249  git add .
+  250  git init
+  251  cd comandos
+  252  cd desktop
+  253  mkdir cursogit
+  254  git status
+  255  git add ..
+  256  git status
+  257  git add .
+  258  git status
+  259  echo ' keiny rivas' > participantes.txt
+  260  git status
+  261  echo readme.txt
+  262  git status
+  263  git add .
+  264  git status
+  265  git 'proba' readme.txt
+  266  echo 'proba' > readme.txt
+  267  git status
+  268  git add .
+  269  git add
+  270  git status
+  271  git ' commit 2'
+  272  git status
+  273  git add ..
+  274  git status
+  275  git restore readme.txt
+  276  git status
+  277  git commit -a
+  278  git add .
+  279  clear
+  280  git status
+  281  git add/rm readme.txt
+  282  git status
+  283  git add .
+  284  git restore --staged participantes.txt
+  285  git status
+  286  git add participantes.txt
+  287  git add participantes.txt
+  288  git status
+  289  git restore --staged .
+  290  git commit
+  291  git status
+  292  git commit
+  293  git restore --staged .
+  294  git status
+  295  git commit -am 'alteraçao no readme'
+  296  git status
+  297  git add readme.txt
+  298  git add ..
+  299  git add <readme.txt>
+  300  git add 'readme.txt'
+  301  git commit
+  302  git add participantes.txt
+  303  history  >aula_3.txt
+  304  git status
+  305  git add .
+  306  git add
+  307  git add..
+  308  git commit -m 'comandos da aula 3'.txt
+  309  git status
+  310  ls
+  311  cd desktop
+  312  cd curso git
+  313  cd cursogit
+  314  git init
+  315  git log
+  316  cd ..
+  317  git log
+  318  git log --pretty=oneline
+  319  git log --stat
+  320  git log --author='keiny rivas'
+  321  git status
+  322  git commit -a
+  323  'git commit -a'
+  324  touch teste
+  325  git add teste
+  326  git status
+  327  git commit -m 'commit de teste'
+  328  git log
+  329  cd toti
+  330  ls
+  331  cd toti
+  332  cd desktop
+  333  cd toti
+  334  git init
+  335  git log
+  336  touch teste
+  337  git add .
+  338  git add teste
+  339  git estatus
+  340  git status
+  341  git commit -m 'commit de teste"
+  342  cd desktop
+  343  cd toti
+  344  git init
+  345  git log
+  346  git status
+  347  touch teste 2
+  348  git add teste 2
+  349  gist status
+  350  git status
+  351  touch testando
+  352  git add testando
+  353  git status
+  354  git commit -m 'commit de teste'
+  355  git log
+  356  git commit -m 'commit segundo'
+  357  git commit
+  358   1 cd Desktop / GITClone / GIT /
+  359      Rebase do checkout de 2 git
+  360      Log de 3 git
+  361      4 git log --pretty = oneline --graph
+  362      Mestre de verificação de 5 git
+  363      6 git log --pretty = oneline --graph
+  364      7 história
+  365      8 cd ..
+  366      9 vídeos em cd / GIT \ refeito /
+  367     10 ls
+  368     11 mkdir Aula \ 1 Aula \ 4 Aula \ 5 Aula \ 6 Aula \ 7 Aula \ 8
+  369     12 ls
+  370     13 claro
+  371     14 cd ..
+  372     15 cd ..
+  373     16 cd Desktop /
+  374     17 claro
+  375     18 git config --global user.name 'Kauê Maia'
+  376     19 git config user.name
+  377     20 git config --global user.email 'kaue.maia@gmail.com'
+  378     21 cd ..
+  379     22 git config user.name
+  380     23 git config --global color.ui true
+  381     24 claro
+  382  cd desktop
+  383  cd toti
+  384   1 cd Desktop / GITClone / GIT /
+  385      Rebase do checkout de 2 git
+  386      Log de 3 git
+  387      4 git log --pretty = oneline --graph
+  388      Mestre de verificação de 5 git
+  389      6 git log --pretty = oneline --graph
+  390      7 história
+  391      8 cd ..
+  392      9 vídeos em cd / GIT \ refeito /
+  393     10 ls
+  394     11 mkdir Aula \ 1 Aula \ 4 Aula \ 5 Aula \ 6 Aula \ 7 Aula \ 8
+  395     12 ls
+  396     13 claro
+  397     14 cd ..
+  398     15 cd ..
+  399     16 cd Desktop /
+  400     17 claro
+  401     18 git config --global user.name 'Kauê Maia'
+  402     19 git config user.name
+  403     20 git config --global user.email 'kaue.maia@gmail.com'
+  404     21 cd ..
+  405     22 git config user.name
+  406     23 git config --global color.ui true
+  407  ls
+  408  cd desktop
+  409  mkdir git
+  410  git init
+  411  git status
+  412  cd git
+  413  echo '#aprendendo usar o git' > readme.md
+  414  git status
+  415  ls -a
+  416  git status
+  417  git status
+  418  git add readme.md
+  419  git status
+  420  git commi -m 'commit inicial'
+  421  git status
+  422  echo '##aula 1 ' >> readme.md
+  423  git status
+  424  echo ' keiny rivas' > participantes.txt
+  425  git status
+  426  git add .
+  427  git status
+  428  git restore -- staged participantes.txt
+  429  git restore --staged participantes.txt
+  430  git restore --staged participantes.txt
+  431  git status
+  432  git restore --staged participantes.txt
+  433  git restore --staged .
+  434  git cm --cached .
+  435  am
+  436  git commit -m 'segundo commit'
+  437  git log
+  438  touch teste
+  439  git add teste
+  440  git status
+  441  git commit -m 'comiste de teste'
+  442  git log
+  443  git reset --soft HEAD~
+  444  git status
+  445  git log
+  446  git commit 'commit de teste'
+  447  git commit -m 'commit de teste'
+  448  git log
+  449  git status
+  450  git checkout HEAD~~
+  451  git checkout HEAD~
+  452  git status
+  453  git checkout master
+  454  clear
+  455  mkdir .vscode
+  456  cd .vscode
+  457  touch conf.txt
+  458  ls
+  459  git status
+  460  echo '.vscode/' > gitignore
+  461  git status
+  462  cd ..
+  463  git status
+  464  echo '.vscode/' > gitignore
+  465  git status
+  466  touch pessoal.conf
+  467  git status
+  468  echo 'pessoal.conf' >> .gitignore
+  469  git status
+  470  touch 'pessoal.conf' >> .gitignore
+  471  git status
+  472  git ststus
+  473  gitt add .gitignore
+  474  git add .gitignore
+  475  git commit -m 'adicionado arquivo .gitognore'
+  476  git status
+  477  git log
+  478  history > aula 4.txt
+  479  history > aula_4.txt
