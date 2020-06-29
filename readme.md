@@ -1,4 +1,4 @@
-# aprendendo usar o git
+# Aprendendo usar o git
 
 
-## aula 1 
+## Aula 1 
